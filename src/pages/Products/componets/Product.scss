@@ -1,0 +1,8 @@
+.product-image {
+    height: 160px;
+    overflow: hidden;
+}
+.product-image img{
+    max-width: 100%;
+    object-fit: cover;
+}
